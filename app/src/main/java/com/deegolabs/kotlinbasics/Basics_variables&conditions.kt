@@ -1,7 +1,5 @@
 package com.deegolabs.kotlinbasics
 
-import kotlin.reflect.typeOf
-
 fun main() {
     var myAge: Byte = 30
 
