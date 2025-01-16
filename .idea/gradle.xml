@@ -12,6 +12,9 @@
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/app" />
             <option value="$PROJECT_DIR$/captaingame" />
+            <option value="$PROJECT_DIR$/mvvm" />
+            <option value="$PROJECT_DIR$/myrecipeapp" />
+            <option value="$PROJECT_DIR$/navigationsample" />
             <option value="$PROJECT_DIR$/shoppinglistapp" />
           </set>
         </option>
